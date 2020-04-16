@@ -37,7 +37,7 @@
         <!-- Left Part Start-->
         @include('includes.welcome._leftpart')
         <!-- Left Part End-->
-
+        <h2>این یک تست است</h2>
         <!--Middle Part Start-->
         @include('includes.welcome._slider')
         <!--Middle Part End-->
